@@ -1,0 +1,119 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.Main",
+            "projectName": "Solutions"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>",
+            "request": "launch",
+            "mainClass": "com.flagship.design.pattern.creational.abstractfactory.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(1)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.pattern.creational.builder.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(2)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.pattern.creational.builder.v2.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(3)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.pattern.creational.factorymethod.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(4)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.pattern.creational.simplefactory.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(5)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.pattern.creational.singleton.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(6)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.principle.compositionnaggregation.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(7)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.principle.demeter.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(8)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.principle.dependenceinversion.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(9)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.principle.liskovSubstitution.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(10)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.principle.liskovSubstitution.methodinput.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(11)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.principle.liskovSubstitution.methodoutput.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(12)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.principle.openclose.Test",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<design-patterns>(13)",
+            "request": "launch",
+            "mainClass": "com.flagship.design.principle.singleresponsibility.Test",
+            "projectName": "design-patterns"
+        }
+    ]
+}
