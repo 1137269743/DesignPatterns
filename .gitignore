@@ -14,6 +14,7 @@ target/
 #eclipse ignore
 .settings/
 .project
+.vscode/
 .classpatch
 
 #idea
